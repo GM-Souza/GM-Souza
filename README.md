@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">Hi!👋 I'm Guilherme, a System Development student from Brasil.<br><br>📚 I'm currently learning Systems Analysis and Development at UniCesumar.<br><br>☕ Specializing in Java language and technologies (Spring Boot, JPA e Hibernate).<br><br>🔭 I'm looking for my first opportunity as a developer.</p>
+<p align="left">Hi!👋 I'm Guilherme, a System Development student from Brasil.<br><br>📚 I'm currently learning Systems Analysis and Development at UniCesumar.<br><br>☕ Specializing in Java language and Frameworks (Spring Boot, JPA e Hibernate).<br><br>🔭 I'm looking for my first opportunity as a developer.</p>
 
 <details>
    <summary>👨‍💻 More about me</summary>
