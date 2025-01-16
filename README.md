@@ -22,7 +22,7 @@
 ###
 
 ![GM-Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=GM-Souza&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GM-Souza&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GM-Souza)](https://github.com/GM-Souza/github-readme-stats)
 
 
 ###
