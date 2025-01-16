@@ -8,13 +8,11 @@
 
 <details>
    <summary>👨‍💻 More about me</summary>
-     <p></p>
   - 💬 I’m Guilherme, 21 years old, and I have a strong passion for learning. Right now, I’m specializing in Java, focusing on programming to build a solid career in technology. I love studying and reading books, always eager to expand my knowledge. Outside of my studies, I enjoy staying active by practicing sports. In my free time, I also like to play games as a way to relax and unwind. Balancing both my intellectual and physical growth is something I truly enjoy.
 </details>
 
 
 <!-- CONTACTS -->
-   <p></p>
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-souza-83b405279/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -25,7 +23,7 @@
 </div>
 
 <!-- ANALYTICS -->
-<h3 align="center">My Stats :</h3>
+<h3 align="center"></h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GM-Souza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GM-Souza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -46,6 +44,6 @@
 </div>
 
 <!-- GIF -->
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/user-attachments/assets/2e7cf482-99d9-4bb6-946f-5f3599dfe2d1" alt="Imagem">
 </p>
