@@ -8,7 +8,9 @@
 
 <details>
    <summary>👨‍💻 More about me</summary>
-  - 💬 I’m Guilherme, 21 years old, and I have a strong passion for learning. Right now, I’m specializing in Java, focusing on programming to build a solid career in technology. I love studying and reading books, always eager to expand my knowledge. Outside of my studies, I enjoy staying active by practicing sports. In my free time, I also like to play games as a way to relax and unwind. Balancing both my intellectual and physical growth is something I truly enjoy.
+      <p>
+           - 💬 I’m Guilherme, 21 years old, and I have a strong passion for learning. Right now, I’m specializing in Java, focusing on programming to build a solid career in technology. I love studying and reading books, always eager to expand my knowledge.                Outside of my studies, I enjoy staying active by practicing sports. In my free time, I also like to play games as a way to relax and unwind. Balancing both my intellectual and physical growth is something I truly enjoy.
+      </p>
 </details>
 
 
