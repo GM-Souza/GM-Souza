@@ -44,10 +44,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GM-Souza/GM-Souza/output/snake.svg" alt="Snake animation" />
-![1d11s820dgm91](https://github.com/user-attachments/assets/bef7a31c-a104-425d-aaf1-ed4f0253aee2)
-
-###
