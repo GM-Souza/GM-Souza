@@ -47,6 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
+<!-- Portfolio -->
+## Portfolio
+- [Product API](https://github.com/GM-Souza/productAPI)
+
 ###
 ###
 <!-- GIF -->
