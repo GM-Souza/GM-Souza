@@ -53,7 +53,8 @@
 
 ###
 ###
+###
 <!-- GIF -->
-<p align="center">
+<p align="left">
   <img align="center" src="https://github.com/user-attachments/assets/2e7cf482-99d9-4bb6-946f-5f3599dfe2d1" alt="Imagem">
 </p>
