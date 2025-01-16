@@ -44,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
+<div align="left">
+</div>
 <!-- GIF -->
 <p align="center">
   <img align="center" src="https://github.com/user-attachments/assets/2e7cf482-99d9-4bb6-946f-5f3599dfe2d1" alt="Imagem">
