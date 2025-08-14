@@ -48,8 +48,9 @@
 
 <!-- Portfolio -->
 ## Portfolio
-- [Product API](https://github.com/GM-Souza/productAPI)
+- [Product API](https://github.com/GM-Souza/workshop-springboot3-jpa)
 - [Game list](https://github.com/GM-Souza/dslist)
+  
 ###
 ###
 ###
