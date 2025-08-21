@@ -4,13 +4,15 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">Hi!👋 I'm Guilherme, a System Development student from Brasil.<br><br>📚 I'm currently learning Systems Analysis and Development at UniCesumar.<br><br>☕ Specializing in Java language and Technologies (Spring Boot, JPA e Hibernate).<br><br>🔭 I'm looking for my first opportunity as a developer.</p>
+<p align="left">
+Olá!👋 Sou Guilherme, estudante de Desenvolvimento de Sistemas no Brasil.
 
-<details>
-   <summary>👨‍💻 More about me</summary>
-      <p> </p>
-           - 💬 I’m 21 years old, and I have a strong passion for learning. Right now, I’m specializing in Java, focusing on programming to build a solid career in technology. I love studying and reading books, always eager to expand my knowledge.                Outside of my studies, I enjoy staying active by practicing sports. In my free time, I also like to play games as a way to relax and unwind. Balancing both my intellectual and physical growth is something I truly enjoy.
-</details>
+📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar.
+
+☕ Especializado em linguagem e tecnologias Java (Spring Boot, JPA e Hibernate).
+
+🔭 Estou em busca da minha primeira oportunidade como desenvolvedor.
+</p>
 
 ###
 
