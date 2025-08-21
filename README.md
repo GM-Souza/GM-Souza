@@ -1,98 +1,92 @@
+<!-- Banner superior -->
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true"/>
 </div>
 
-<h3 align="center">
-  Hi, I'm Guilherme Souza
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<!-- Nome e apresentação -->
+<h1 align="center">
+  Olá, eu sou o Guilherme Souza 👋
+</h1>
 
-<h3 align="center">
-   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Engenheiro+de+Software;Apaixonado+por+tecnologia;Buscando+novos+desafios)](https://git.io/typing-svg)>
-</h3
-   
-<p align="center">
-  <a href="https://github.com/GM-Souza/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=GM-Souza"></a>
-</p>
+<!-- Texto animado -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F70000&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software;Apaixonado+por+tecnologia;Buscando+novos+desafios" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar.
+## 👨‍💻 Sobre mim  
 
-☕ Se especializando em linguagem JAVA etecnologias (Spring Boot, JPA e Hibernate).
-🔭 Estou em busca da minha primeira oportunidade como desenvolvedor.
-## 🛠 &nbsp;Tech Stack
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas** na **UniCesumar**  
+- ☕ Especializando em **Java** e tecnologias como **Spring Boot, JPA e Hibernate**  
+- 🔭 Buscando minha primeira oportunidade como **desenvolvedor backend**  
+- 🚀 Apaixonado por resolver problemas e aprender novas tecnologias  
 
-#### 🔧 Linguagens e Frameworks 
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## ⚡ Tecnologias e Ferramentas  
 
+<div align="center">
 
-#### 🔧 Ferramentas
+### 🔹 Linguagens & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+### 🔹 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Portfolio
-- [Product API](https://github.com/GM-Souza/workshop-springboot3-jpa)
-- [Game list](https://github.com/GM-Souza/dslist)
+</div>
 
-## 📊 Estatísticas 
+---
 
- <div align=center>
+## 📂 Projetos em destaque  
 
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
+- 🔹 [**Product API**](https://github.com/GM-Souza/workshop-springboot3-jpa) – API REST com Spring Boot + JPA  
+- 🔹 [**Game List**](https://github.com/GM-Souza/dslist) – API para catálogo de jogos  
+
+---
+
+## 📊 Estatísticas  
+
+<div align="center">
+
+<!-- Stats principais -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GM-Souza&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&border_radius=20&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff"/>  
+
+<!-- Linguagens mais usadas -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GM-Souza&layout=compact&langs_count=8&theme=algolia&border_radius=20&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff"/>  
 
 </div>
- 
- ### 💳 Sumário
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
-  
- </div>
- 
- ### ⏱ Streak 
- 
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdalrahman-Alhamod&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
- </div>
- 
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-### 📊 Most Used Language
-
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
- 
- ### 🏆 Profile Trophies
-
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdalrahman-Alhamod&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
+<!-- GIF ou imagem personalizada -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2e7cf482-99d9-4bb6-946f-5f3599dfe2d1" alt="Imagem" width="70%"/>
 </div>
-  
-###
-###
-###
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/2e7cf482-99d9-4bb6-946f-5f3599dfe2d1" alt="Imagem">
-</p>
+
+---
+
+<!-- Contatos -->
+<div align="center">
+  <h3>📫 Vamos nos conectar!</h3>
+  <a href="https://www.linkedin.com/in/guilherme-souza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:guilhermesouza@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<!-- Banner inferior -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer"/>
+</div>
