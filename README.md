@@ -7,8 +7,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<h3 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Engenheiro+de+Software;Apaixonado+por+tecnologia;Buscando+novos+desafios)](https://git.io/typing-svg)>
-
+</h3
+   
 <p align="center">
   <a href="https://github.com/GM-Souza/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=GM-Souza"></a>
 </p>
