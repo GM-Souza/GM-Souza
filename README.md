@@ -5,8 +5,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-Olá!👋 Sou Guilherme, estudante de Desenvolvimento de Sistemas no Brasil.
-
+  
 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar.
 
 ☕ Especializado em linguagem e tecnologias Java (Spring Boot, JPA e Hibernate).
