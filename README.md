@@ -8,6 +8,7 @@
 </h3>
 
 <h3 align="center">
+   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Engenheiro+de+Software;Apaixonado+por+tecnologia;Buscando+novos+desafios)](https://git.io/typing-svg)>
 </h3
    
