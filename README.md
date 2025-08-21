@@ -78,7 +78,7 @@
 <!-- Contatos -->
 <div align="center">
   <h3>📫 Vamos nos conectar!</h3>
-  <a href="https://www.linkedin.com/in/guilherme-souza" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme--matos-souza" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:guilhermesouza@gmail.com">
